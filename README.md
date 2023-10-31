@@ -2,5 +2,11 @@
 
 Conteúdo da aula de Testes de Software do terceiro semestre de Engenharia de Software na Católica de Santa Catarina
 
-## Tecnologia utilizada:
-Visual Studio Code
+## Aplicações aula1
+Utilizei Node.js para desenvolver a API da aula1 juntamente com o Express, realizando então um teste unitário
+
+## Aplicações tdd - atividade prática
+Utilizei o TDD (Test Driven Development) para implementar a função Calculadora de Fatorial de forma parecida com a aplicação da aula1
+
+## Tecnologias utilizadas:
+Node.js, Express, Visual Studio Code
