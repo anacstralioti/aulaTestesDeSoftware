@@ -11,7 +11,7 @@ Utilizei o TDD (Test Driven Development) para implementar a função Calculadora
 ## Aplicações seleniumTestes - atividade prática
 Utilizei o Selenium para fazer um teste automatizado com a página https://www.fundamentus.com.br
 
-## Aplicações seleniumTestes - atividade prática
+## Aplicações springTeste - atividade prática
 Utilizei o Spring Boot para uma aplicação que servirá para criar uma API REST, afim de disponibilizar contratos para criação de uma agenda.
 
 ## Tecnologias utilizadas:
