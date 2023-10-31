@@ -12,7 +12,7 @@ Utilizei o TDD (Test Driven Development) para implementar a função Calculadora
 Utilizei o Selenium para fazer um teste automatizado com a página https://www.fundamentus.com.br
 
 ## Aplicações springTeste - atividade prática
-Utilizei o Spring Boot para uma aplicação que servirá para criar uma API REST, afim de disponibilizar contratos para criação de uma agenda.
+Utilizei o Spring Boot junto ao IntelliJ IDEA para uma aplicação que servirá para criar uma API REST, afim de disponibilizar contratos para criação de uma agenda.
 
 ## Tecnologias utilizadas:
 Node.js, Express, Visual Studio Code
