@@ -8,5 +8,8 @@ Utilizei Node.js para desenvolver a API da aula1 juntamente com o Express, reali
 ## Aplicações tdd - atividade prática
 Utilizei o TDD (Test Driven Development) para implementar a função Calculadora de Fatorial de forma parecida com a aplicação da aula1
 
+## Aplicações seleniumTestes - atividade prática
+Utilizei o Selenium para fazer um teste automatizado com a página https://www.fundamentus.com.br
+
 ## Tecnologias utilizadas:
 Node.js, Express, Visual Studio Code
